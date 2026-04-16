@@ -1,0 +1,44 @@
+;   MEGA 12 (Molecular Evolutionary Genetics Analysis)
+;
+;   Suggested Citation for MEGA 12:
+;
+;   Kumar S, Stecher G, Suleski M, Sanderford M, Sharma S, and Tamura K.
+;   Molecular Evolutionary Genetics Analysis Version 12 for adaptive and green computing.
+;   Molecular Biology and Evolution (2024) 41:1-9
+
+[Application Info]
+
+	Version                                 = 12.1.2
+	Build                                   = 12251216-x86_64
+	User Interface                          = Graphical
+	Operating System                        = windows
+
+[General Info]
+
+	Data Type                               = amino acid
+	No. of Taxa                             =        3
+	No. of Sites                            =    2,363
+	Data File                               = PhyloAnalysis.meg
+
+[Analysis Settings]
+
+	Scope                                   = All Selected Taxa
+	Statistical Method                      = Neighbor-joining
+	Test of Phylogeny                       = None
+	Substitutions Type                      = Amino acid
+	Model/Method                            = Poisson model
+	Rates among Sites                       = Uniform Rates
+	Pattern among Lineages                  = Same (Homogeneous)
+	Gaps/Missing Data                       = Pairwise deletion
+
+[Analysis Statistics]
+
+	Start Time                              = 9/4/2026 16:33:43
+	End Time                                = 9/4/2026 16:33:43
+	Execution Time                          =    0.045 (seconds)
+	Peak Memory Used(Working Set)           =  232.871 (MB)
+	NJ Tree Search Start Time               = 9/4/2026 16:33:43
+	NJ Tree Search End Time                 = 9/4/2026 16:33:43
+	NJ Tree Search Execution Time           =    0.004 (seconds)
+	NJ Tree Search Memory Used              =    0.418 (MB)
+	Sum of branch lengths                   =    0.502

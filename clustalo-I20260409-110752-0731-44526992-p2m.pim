@@ -1,0 +1,9 @@
+#
+#
+#  Percent Identity  Matrix - created by Clustal2.1 
+#
+#
+
+     1: sp|P12263|FA8_PIG    100.00   73.44   67.79
+     2: sp|P00451|FA8_HUMAN   73.44  100.00   73.67
+     3: sp|Q06194|FA8_MOUSE   67.79   73.67  100.00
